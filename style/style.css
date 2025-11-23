@@ -46,11 +46,6 @@ h4 {
     margin-bottom: 20px;
 }
 
-.h1 {
-    color: gold;
-
-}
-
 h2 {
     font-size: 2.5rem;
     text-align: center;
@@ -845,4 +840,5 @@ footer {
     .container {
         width: 95%;
     }
+
 }
